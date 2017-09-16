@@ -88,9 +88,9 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Europe/Warsaw'
-
 USE_I18N = True
+
+TIME_ZONE = 'Europe/Warsaw'
 
 USE_L10N = True
 
